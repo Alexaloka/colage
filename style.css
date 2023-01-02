@@ -1,0 +1,11 @@
+img {
+    width: 35%;
+    height: 40px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.col{
+    display: inline;
+    padding: 10px;
+    
+}
